@@ -18,7 +18,7 @@
     "axios": "^0.18.0",
     "fastclick": "^1.0.6",
     "lodash": "^4.17.11",
-    "qs": "^6.6.0",
+    "qs": "^6.8.3",
     "vue": "^2.6.6",
     "vue-class-component": "^6.0.0",
     "vue-property-decorator": "^7.0.0",
